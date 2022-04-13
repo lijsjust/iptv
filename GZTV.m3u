@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV-1综合
+http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 ,CCTV-3综艺
+http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
+#EXTINF:-1 ,CCTV-5体育
+http://39.134.66.110/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 ,CCTV-5+赛事
+http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1 ,CCTV-6电影
+http://39.134.66.110/PLTV/88888888/224/3221225814/index.m3u8
+#EXTINF:-1 ,CCTV-7军事
+http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 ,CCTV-8电视剧
+http://39.134.66.110/PLTV/88888888/224/3221225795/index.m3u8
+#EXTINF:-1 ,CCTV-9纪录
+http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 ,CCTV-10科教
+http://39.134.66.110/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 ,CCTV-12社会
+http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 ,CCTV-14少儿
+http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 ,CCTV-17农业
+http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 ,浙江卫视
+http://39.134.66.110/PLTV/88888888/224/3221225514/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://39.134.66.110/PLTV/88888888/224/3221225882/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://39.134.66.110/PLTV/88888888/224/3221225865/index.m3u8
+#EXTINF:-1 ,广东卫视
+http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8
+#EXTINF:-1 ,南方卫视*
+http://39.135.138.60:18890/PLTV/88888910/224/3221226203/index.m3u8
+#EXTINF:-1 ,南方卫视
+http://117.148.179.160/PLTV/88888888/224/3221231661/index.m3u8
+#EXTINF:-1 ,嘉佳卡通
+http://117.148.179.144/PLTV/88888888/224/3221231483/index.m3u8
+#EXTINF:-1 ,广州南国都市
+https://aplay.gztv.com/sec/shenghuos.m3u8
+#EXTINF:-1 ,广州竞赛
+https://aplay.gztv.com/sec/jingsai.m3u8
+#EXTINF:-1 ,广州新闻
+https://aplay.gztv.com/sec/xinwen.m3u8
+#EXTINF:-1 ,广州影视
+https://aplay.gztv.com/sec/yingshi.m3u8
+#EXTINF:-1 ,广州法治
+https://aplay.gztv.com/sec/fazhi.m3u8
+#EXTINF:-1 ,广州综合
+https://aplay.gztv.com/sec/zhonghe.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://111.20.33.71/PLTV/88888888/224/3221225744/index.m3u8
