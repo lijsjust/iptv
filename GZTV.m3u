@@ -53,3 +53,9 @@ https://aplay.gztv.com/sec/zhonghe.m3u8
 http://111.20.33.71/PLTV/88888888/224/3221225744/index.m3u8
 #EXTINF:-1,翡翠台 (中英字幕)
 https://cdn.hkyoutv.com/raw/81b.ts
+#EXTINF:-1,凤凰中文
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+#EXTINF:-1,凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1,凤凰香港
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
