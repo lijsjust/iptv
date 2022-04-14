@@ -59,3 +59,21 @@ http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1,凤凰香港
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1,翡翠台 (中英字幕)
+https://cdn.hkyoutv.com/raw/81b.ts
+#EXTINF:-1,TVB星河频道
+http://itv.my.to/gd?id=35&play=2
+#EXTINF:-1,CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1,BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1,古天乐影院
+http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
+#EXTINF:-1,成龙作品集
+http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
+#EXTINF:-1,周星驰影院
+http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
+#EXTINF:-1,刘德华影院
+http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
+#EXTINF:-1,TVB剧场
+http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
