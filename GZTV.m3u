@@ -49,7 +49,11 @@ http://117.148.179.160/PLTV/88888888/224/3221231661/index.m3u8
 http://117.148.179.144/PLTV/88888888/224/3221231483/index.m3u8
 #EXTINF:-1 tvg-id="25" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="少儿",金鹰卡通
 http://111.20.33.71/PLTV/88888888/224/3221225744/index.m3u8
-#EXTINF:-1 tvg-id="26" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="少儿",CCTV-14少儿
+#EXTINF:-1 tvg-id="26" tvg-name="靖天卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天卡通.png" group-title="少儿",#EXTINF-1靖天卡通台
+http://50.7.218.42:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
+#EXTINF:-1 tvg-id="27" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="少儿",#EXTINF-1优漫卡通
+http://117.148.179.183/PLTV/88888888/224/3221231574/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="少儿",CCTV-14少儿
 http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠
 http://1080.youkucdn.live:25461/live/66325546/123/3736.m3u8
