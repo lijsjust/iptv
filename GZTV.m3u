@@ -69,7 +69,7 @@ http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="港澳台",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="港澳台",#EXTINF-1HBO
+#EXTINF:-1 tvg-id="38" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="港澳台",HBO
 http://59.125.101.187:8757/http/192.168.77.24:8081/hls/71/813/ch41.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="古天乐影院" tvg-logo="" group-title="影院",古天乐影院
 http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
