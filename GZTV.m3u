@@ -31,10 +31,8 @@ http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221226203/index.m3u8
 #EXTINF:-1 ,南方卫视
 http://117.148.179.160/PLTV/88888888/224/3221231661/index.m3u8
-#EXTINF:-1 ,嘉佳卡通
-http://117.148.179.144/PLTV/88888888/224/3221231483/index.m3u8
-#EXTINF:-1 ,金鹰卡通
-http://111.20.33.71/PLTV/88888888/224/3221225744/index.m3u8
+#EXTINF:-1,广东珠江
+http://39.135.32.6:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,广州南国都市
 https://aplay.gztv.com/sec/shenghuos.m3u8
 #EXTINF:-1 ,广州竞赛
@@ -47,6 +45,10 @@ https://aplay.gztv.com/sec/yingshi.m3u8
 https://aplay.gztv.com/sec/fazhi.m3u8
 #EXTINF:-1 ,广州综合
 https://aplay.gztv.com/sec/zhonghe.m3u8
+#EXTINF:-1 ,嘉佳卡通
+http://117.148.179.144/PLTV/88888888/224/3221231483/index.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://111.20.33.71/PLTV/88888888/224/3221225744/index.m3u8
 #EXTINF:-1,TVB翡翠
 http://1080.youkucdn.live:25461/live/66325546/123/3736.m3u8
 #EXTINF:-1,高清翡翠
